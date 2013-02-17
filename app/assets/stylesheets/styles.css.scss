@@ -22,6 +22,11 @@ body {
 
 }
 
+.hero-unit {
+background-color:transparent;
+
+}
+
 .footer {
 
     margin-top: 50px;	
@@ -35,7 +40,7 @@ body {
 body {
 margin-left:13%;
 width: 900px;
-background-image: url(texture19.jpg);
+background-image: url(/assets/texture19.jpg);
 background-attachment:fixed;
 background-position: center;
 -webkit-background-size: cover;
